@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-image: url(images/img.jpg);
+    background-repeat: no-repeat;
+   background-size: cover;
+   align-items: center;
+   height: 100vh;
+   width: 100vw;
+   
+   
+}
+
+header {
+    color: whitesmoke;
+    
+}
+
+#timer {
+    padding-left: 5px;
+    float: right;
+}
+
+#timeText {
+    padding-top: 20px;
+    float: right;
+}
+#backText {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+
+
+.sticky-top {
+margin-bottom: 50px ;
+}
+
+.container {
+    width: 500px;
+    max-width: 80%;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 0 10px 2px;
+    text-align: center;
+}
+
+.highscores-container {
+    width: 500px;
+    max-width: 80%;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    padding: 10px;
+    margin:auto;
+    box-shadow: 0 0 10px 2px;
+    text-align: center;
+}
+
+
+.myQuestions {
+ padding: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
