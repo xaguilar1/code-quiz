@@ -46,3 +46,5 @@ Overall:
 
 - fun coding and i definetely enjoy styling things as needed
 - VERY hard 
+
+![](images/code-quiz-start-screen.png)
