@@ -47,5 +47,4 @@ Overall:
 - fun coding and i definetely enjoy styling things as needed
 - VERY hard 
 
-<img src= "images/code-quiz-start-screen.png">
-![](images/code-quiz-start-screen.png)
+<img src="images/code-quiz-start-screen.png">
