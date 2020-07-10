@@ -31,6 +31,7 @@ What I was able to actually add:
 - timer stops when hits zero and stops user from answering anymore questions - heads to all done page
 - timer stops when user is done with last question- heads to the all done page 
 - used a navigation bar from bootsrap and changed it up so where my background could be different but not hide the timer and highscores page link
+- added favicon 
 
 What else i needed:
 
