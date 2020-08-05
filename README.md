@@ -42,9 +42,4 @@ What else i needed:
 - needed some css styling for buttons 
 - fix a property error 
 
-Overall: 
-
-- fun coding and i definetely enjoy styling things as needed
-- VERY hard 
-
-<img src="images/code-quiz-start-screen.png">
+<img width="920" alt="Screen Shot 2020-08-04 at 10 38 25 PM" src="https://user-images.githubusercontent.com/65522080/89365761-54445880-d6a3-11ea-95ef-42d62450986b.png">
